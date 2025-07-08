@@ -6,8 +6,10 @@ Hi, I'm a developer drifting through this vague idea of life.
 
 ## 📧 Contact Me
 
+- [Portfolio](https://um1chc5.tech/)
 - [Facebook](https://www.facebook.com/um1chc5/)
 - [LinkedIn](https://www.linkedin.com/in/an-vu-100a2b1a6/)
+
 
 ## 🔮 My Stacks
 
