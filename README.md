@@ -14,7 +14,6 @@ Hi, I'm a developer drifting through this vague idea of life.
 ## 🔮 My Stacks
 
 <a href="">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=um1chc5&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=um1chc5&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
 </a>
 
